@@ -16,7 +16,7 @@ const Sidenav = () => {
                 <div className='fixed w-full h-screen bg-white/90 flex flex-col justify-center items-center z-20'>
                     <Button1 Icon={AiOutlineHome} Text='Home' Href="https://twitter.com/?lang=es"/>
                     <Button1 Icon={AiOutlineMenu} Text='Menu' Href="https://www.youtube.com/"/>
-                    <Button1 Icon={AiOutlineAlert} Text='Alertaaa' Href="https://www.reddit.com"/>
+                    <Button1 Icon={AiOutlineAlert} Text='Alertaaac' Href="https://www.reddit.com"/>
 
                 </div>
             )
