@@ -4,6 +4,6 @@
 
 @layer components{
     .button1{
-       @apply w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-105 transition duration-200 ease-in-out 
+       @apply w-[75%] flex justify-center items-center rounded-full shadow-lg border-4 text-white border-white   shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-[1.02] transition duration-200 ease-in-out 
     }
 }
